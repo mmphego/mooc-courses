@@ -1,6 +1,6 @@
 # Massive open online courses
 
-- [Udacity](udacity.com/)
+- [Udacity](#udacity)
 
 ## Udacity 
 
